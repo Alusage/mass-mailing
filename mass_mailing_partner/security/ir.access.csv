@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id/id,operation,domain
+access_partner_mail_list_wizard,access_partner_mail_list_wizard,model_partner_mail_list_wizard,base.group_user,cru,
